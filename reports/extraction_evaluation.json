@@ -1,0 +1,22 @@
+{
+  "n_regex_evaluated": 320,
+  "n_llm_evaluated": 80,
+  "regex_accuracy_by_field": {
+    "policyholder": 1.0,
+    "policy_number": 1.0,
+    "category": 1.0,
+    "item_description": 1.0,
+    "item_value": 1.0,
+    "claimed_amount": 1.0
+  },
+  "llm_accuracy_by_field": {
+    "policyholder": 0.9875,
+    "policy_number": 1.0,
+    "category": 1.0,
+    "item_description": 1.0,
+    "item_value": 0.9,
+    "claimed_amount": 0.9625
+  },
+  "regex_overall_accuracy": 1.0,
+  "llm_overall_accuracy": 0.975
+}

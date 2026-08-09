@@ -1,0 +1,76 @@
+{
+  "n_evaluated": 80,
+  "confusion_matrix": {
+    "true_positive": 19,
+    "false_positive": 10,
+    "false_negative": 0,
+    "true_negative": 51
+  },
+  "precision": 0.655,
+  "recall": 1.0,
+  "f1_score": 0.792,
+  "false_positives_caused_by_cv_misclassification": 2,
+  "false_positives_total": 10,
+  "false_positive_detail": [
+    {
+      "claim_id": "CLAIM_10002",
+      "cv_correct": true,
+      "true_severity": "moderate",
+      "predicted_severity": "moderate"
+    },
+    {
+      "claim_id": "CLAIM_10003",
+      "cv_correct": false,
+      "true_severity": "moderate",
+      "predicted_severity": "minor"
+    },
+    {
+      "claim_id": "CLAIM_10005",
+      "cv_correct": true,
+      "true_severity": "none",
+      "predicted_severity": "none"
+    },
+    {
+      "claim_id": "CLAIM_10015",
+      "cv_correct": true,
+      "true_severity": "minor",
+      "predicted_severity": "minor"
+    },
+    {
+      "claim_id": "CLAIM_10016",
+      "cv_correct": true,
+      "true_severity": "moderate",
+      "predicted_severity": "moderate"
+    },
+    {
+      "claim_id": "CLAIM_10030",
+      "cv_correct": true,
+      "true_severity": "minor",
+      "predicted_severity": "minor"
+    },
+    {
+      "claim_id": "CLAIM_10055",
+      "cv_correct": true,
+      "true_severity": "moderate",
+      "predicted_severity": "moderate"
+    },
+    {
+      "claim_id": "CLAIM_10057",
+      "cv_correct": true,
+      "true_severity": "moderate",
+      "predicted_severity": "moderate"
+    },
+    {
+      "claim_id": "CLAIM_10064",
+      "cv_correct": true,
+      "true_severity": "minor",
+      "predicted_severity": "minor"
+    },
+    {
+      "claim_id": "CLAIM_10069",
+      "cv_correct": false,
+      "true_severity": "moderate",
+      "predicted_severity": "minor"
+    }
+  ]
+}

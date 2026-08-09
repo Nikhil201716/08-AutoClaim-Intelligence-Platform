@@ -1,0 +1,25 @@
+numpy>=2.0
+pandas>=2.2
+reportlab>=4.2
+pdfplumber>=0.11
+pillow>=10.0
+torch>=2.0
+scikit-learn>=1.5
+duckdb>=1.5
+dbt-core>=1.12
+dbt-duckdb>=1.9
+ollama>=0.6
+streamlit>=1.35
+plotly>=5.22
+matplotlib>=3.9
+
+# NOTE: torch here is CPU-only - no GPU/CUDA required, the CNN in vision/
+# is intentionally small (3 conv layers, 96x96 inputs) so it trains in
+# minutes on CPU alone, consistent with every model choice in this
+# portfolio being sized to run on modest hardware at zero cost.
+#
+# NOTE: the document AI and reconciliation agent features require Ollama
+# (a separate application, not a pip package) with the qwen2.5:0.5b model
+# pulled:
+#   winget install Ollama.Ollama
+#   ollama pull qwen2.5:0.5b

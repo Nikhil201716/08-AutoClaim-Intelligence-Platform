@@ -1,0 +1,1282 @@
+{
+  "CLAIM_10001": {
+    "predicted_severity": "minor",
+    "confidence": 0.8799
+  },
+  "CLAIM_10011": {
+    "predicted_severity": "minor",
+    "confidence": 0.9586
+  },
+  "CLAIM_10013": {
+    "predicted_severity": "minor",
+    "confidence": 0.9603
+  },
+  "CLAIM_10014": {
+    "predicted_severity": "minor",
+    "confidence": 0.9544
+  },
+  "CLAIM_10015": {
+    "predicted_severity": "minor",
+    "confidence": 0.9553
+  },
+  "CLAIM_10021": {
+    "predicted_severity": "minor",
+    "confidence": 0.9835
+  },
+  "CLAIM_10024": {
+    "predicted_severity": "minor",
+    "confidence": 0.9448
+  },
+  "CLAIM_10030": {
+    "predicted_severity": "minor",
+    "confidence": 0.9621
+  },
+  "CLAIM_10032": {
+    "predicted_severity": "minor",
+    "confidence": 0.9678
+  },
+  "CLAIM_10033": {
+    "predicted_severity": "minor",
+    "confidence": 0.9765
+  },
+  "CLAIM_10037": {
+    "predicted_severity": "minor",
+    "confidence": 0.9676
+  },
+  "CLAIM_10038": {
+    "predicted_severity": "minor",
+    "confidence": 0.9718
+  },
+  "CLAIM_10040": {
+    "predicted_severity": "minor",
+    "confidence": 0.9867
+  },
+  "CLAIM_10044": {
+    "predicted_severity": "minor",
+    "confidence": 0.9841
+  },
+  "CLAIM_10045": {
+    "predicted_severity": "minor",
+    "confidence": 0.9565
+  },
+  "CLAIM_10046": {
+    "predicted_severity": "minor",
+    "confidence": 0.9771
+  },
+  "CLAIM_10048": {
+    "predicted_severity": "minor",
+    "confidence": 0.9875
+  },
+  "CLAIM_10050": {
+    "predicted_severity": "minor",
+    "confidence": 0.9433
+  },
+  "CLAIM_10051": {
+    "predicted_severity": "minor",
+    "confidence": 0.9747
+  },
+  "CLAIM_10056": {
+    "predicted_severity": "minor",
+    "confidence": 0.9721
+  },
+  "CLAIM_10059": {
+    "predicted_severity": "minor",
+    "confidence": 0.982
+  },
+  "CLAIM_10062": {
+    "predicted_severity": "minor",
+    "confidence": 0.9326
+  },
+  "CLAIM_10064": {
+    "predicted_severity": "minor",
+    "confidence": 0.9795
+  },
+  "CLAIM_10068": {
+    "predicted_severity": "minor",
+    "confidence": 0.9704
+  },
+  "CLAIM_10071": {
+    "predicted_severity": "minor",
+    "confidence": 0.9755
+  },
+  "CLAIM_10079": {
+    "predicted_severity": "minor",
+    "confidence": 0.9823
+  },
+  "CLAIM_10084": {
+    "predicted_severity": "minor",
+    "confidence": 0.8718
+  },
+  "CLAIM_10085": {
+    "predicted_severity": "minor",
+    "confidence": 0.9028
+  },
+  "CLAIM_10091": {
+    "predicted_severity": "minor",
+    "confidence": 0.9266
+  },
+  "CLAIM_10092": {
+    "predicted_severity": "minor",
+    "confidence": 0.983
+  },
+  "CLAIM_10095": {
+    "predicted_severity": "minor",
+    "confidence": 0.9767
+  },
+  "CLAIM_10101": {
+    "predicted_severity": "minor",
+    "confidence": 0.9634
+  },
+  "CLAIM_10106": {
+    "predicted_severity": "minor",
+    "confidence": 0.9636
+  },
+  "CLAIM_10108": {
+    "predicted_severity": "minor",
+    "confidence": 0.9238
+  },
+  "CLAIM_10113": {
+    "predicted_severity": "minor",
+    "confidence": 0.9532
+  },
+  "CLAIM_10114": {
+    "predicted_severity": "minor",
+    "confidence": 0.9711
+  },
+  "CLAIM_10117": {
+    "predicted_severity": "minor",
+    "confidence": 0.9837
+  },
+  "CLAIM_10119": {
+    "predicted_severity": "minor",
+    "confidence": 0.9633
+  },
+  "CLAIM_10123": {
+    "predicted_severity": "minor",
+    "confidence": 0.9712
+  },
+  "CLAIM_10127": {
+    "predicted_severity": "minor",
+    "confidence": 0.9769
+  },
+  "CLAIM_10131": {
+    "predicted_severity": "minor",
+    "confidence": 0.9145
+  },
+  "CLAIM_10135": {
+    "predicted_severity": "minor",
+    "confidence": 0.9778
+  },
+  "CLAIM_10137": {
+    "predicted_severity": "minor",
+    "confidence": 0.9425
+  },
+  "CLAIM_10138": {
+    "predicted_severity": "minor",
+    "confidence": 0.9647
+  },
+  "CLAIM_10140": {
+    "predicted_severity": "minor",
+    "confidence": 0.8167
+  },
+  "CLAIM_10143": {
+    "predicted_severity": "minor",
+    "confidence": 0.9856
+  },
+  "CLAIM_10144": {
+    "predicted_severity": "minor",
+    "confidence": 0.9762
+  },
+  "CLAIM_10148": {
+    "predicted_severity": "minor",
+    "confidence": 0.9913
+  },
+  "CLAIM_10152": {
+    "predicted_severity": "minor",
+    "confidence": 0.9653
+  },
+  "CLAIM_10153": {
+    "predicted_severity": "minor",
+    "confidence": 0.9767
+  },
+  "CLAIM_10162": {
+    "predicted_severity": "minor",
+    "confidence": 0.6558
+  },
+  "CLAIM_10163": {
+    "predicted_severity": "minor",
+    "confidence": 0.9458
+  },
+  "CLAIM_10164": {
+    "predicted_severity": "minor",
+    "confidence": 0.8767
+  },
+  "CLAIM_10165": {
+    "predicted_severity": "minor",
+    "confidence": 0.9702
+  },
+  "CLAIM_10169": {
+    "predicted_severity": "minor",
+    "confidence": 0.9708
+  },
+  "CLAIM_10170": {
+    "predicted_severity": "minor",
+    "confidence": 0.9424
+  },
+  "CLAIM_10171": {
+    "predicted_severity": "minor",
+    "confidence": 0.5184
+  },
+  "CLAIM_10172": {
+    "predicted_severity": "minor",
+    "confidence": 0.9814
+  },
+  "CLAIM_10177": {
+    "predicted_severity": "minor",
+    "confidence": 0.924
+  },
+  "CLAIM_10181": {
+    "predicted_severity": "none",
+    "confidence": 0.5163
+  },
+  "CLAIM_10183": {
+    "predicted_severity": "minor",
+    "confidence": 0.9737
+  },
+  "CLAIM_10184": {
+    "predicted_severity": "minor",
+    "confidence": 0.98
+  },
+  "CLAIM_10185": {
+    "predicted_severity": "minor",
+    "confidence": 0.8827
+  },
+  "CLAIM_10186": {
+    "predicted_severity": "minor",
+    "confidence": 0.9735
+  },
+  "CLAIM_10187": {
+    "predicted_severity": "minor",
+    "confidence": 0.9707
+  },
+  "CLAIM_10188": {
+    "predicted_severity": "minor",
+    "confidence": 0.9532
+  },
+  "CLAIM_10193": {
+    "predicted_severity": "minor",
+    "confidence": 0.9853
+  },
+  "CLAIM_10195": {
+    "predicted_severity": "minor",
+    "confidence": 0.9694
+  },
+  "CLAIM_10196": {
+    "predicted_severity": "minor",
+    "confidence": 0.9765
+  },
+  "CLAIM_10200": {
+    "predicted_severity": "minor",
+    "confidence": 0.9747
+  },
+  "CLAIM_10207": {
+    "predicted_severity": "minor",
+    "confidence": 0.9747
+  },
+  "CLAIM_10211": {
+    "predicted_severity": "minor",
+    "confidence": 0.811
+  },
+  "CLAIM_10214": {
+    "predicted_severity": "minor",
+    "confidence": 0.8807
+  },
+  "CLAIM_10215": {
+    "predicted_severity": "minor",
+    "confidence": 0.9559
+  },
+  "CLAIM_10219": {
+    "predicted_severity": "minor",
+    "confidence": 0.85
+  },
+  "CLAIM_10221": {
+    "predicted_severity": "moderate",
+    "confidence": 0.5203
+  },
+  "CLAIM_10223": {
+    "predicted_severity": "minor",
+    "confidence": 0.9117
+  },
+  "CLAIM_10229": {
+    "predicted_severity": "minor",
+    "confidence": 0.9275
+  },
+  "CLAIM_10235": {
+    "predicted_severity": "minor",
+    "confidence": 0.9135
+  },
+  "CLAIM_10237": {
+    "predicted_severity": "minor",
+    "confidence": 0.9844
+  },
+  "CLAIM_10238": {
+    "predicted_severity": "minor",
+    "confidence": 0.9869
+  },
+  "CLAIM_10239": {
+    "predicted_severity": "minor",
+    "confidence": 0.9847
+  },
+  "CLAIM_10240": {
+    "predicted_severity": "minor",
+    "confidence": 0.9636
+  },
+  "CLAIM_10241": {
+    "predicted_severity": "minor",
+    "confidence": 0.9784
+  },
+  "CLAIM_10242": {
+    "predicted_severity": "minor",
+    "confidence": 0.9744
+  },
+  "CLAIM_10243": {
+    "predicted_severity": "minor",
+    "confidence": 0.9494
+  },
+  "CLAIM_10245": {
+    "predicted_severity": "minor",
+    "confidence": 0.8743
+  },
+  "CLAIM_10246": {
+    "predicted_severity": "minor",
+    "confidence": 0.9777
+  },
+  "CLAIM_10248": {
+    "predicted_severity": "minor",
+    "confidence": 0.9858
+  },
+  "CLAIM_10255": {
+    "predicted_severity": "minor",
+    "confidence": 0.9634
+  },
+  "CLAIM_10260": {
+    "predicted_severity": "none",
+    "confidence": 0.598
+  },
+  "CLAIM_10262": {
+    "predicted_severity": "minor",
+    "confidence": 0.9743
+  },
+  "CLAIM_10265": {
+    "predicted_severity": "minor",
+    "confidence": 0.979
+  },
+  "CLAIM_10271": {
+    "predicted_severity": "minor",
+    "confidence": 0.974
+  },
+  "CLAIM_10275": {
+    "predicted_severity": "minor",
+    "confidence": 0.98
+  },
+  "CLAIM_10276": {
+    "predicted_severity": "minor",
+    "confidence": 0.9851
+  },
+  "CLAIM_10277": {
+    "predicted_severity": "minor",
+    "confidence": 0.9754
+  },
+  "CLAIM_10287": {
+    "predicted_severity": "minor",
+    "confidence": 0.9091
+  },
+  "CLAIM_10292": {
+    "predicted_severity": "minor",
+    "confidence": 0.9795
+  },
+  "CLAIM_10293": {
+    "predicted_severity": "minor",
+    "confidence": 0.7348
+  },
+  "CLAIM_10294": {
+    "predicted_severity": "minor",
+    "confidence": 0.9686
+  },
+  "CLAIM_10295": {
+    "predicted_severity": "minor",
+    "confidence": 0.8841
+  },
+  "CLAIM_10296": {
+    "predicted_severity": "minor",
+    "confidence": 0.9494
+  },
+  "CLAIM_10298": {
+    "predicted_severity": "minor",
+    "confidence": 0.9811
+  },
+  "CLAIM_10299": {
+    "predicted_severity": "minor",
+    "confidence": 0.9737
+  },
+  "CLAIM_10301": {
+    "predicted_severity": "minor",
+    "confidence": 0.9816
+  },
+  "CLAIM_10303": {
+    "predicted_severity": "minor",
+    "confidence": 0.9698
+  },
+  "CLAIM_10306": {
+    "predicted_severity": "minor",
+    "confidence": 0.9577
+  },
+  "CLAIM_10312": {
+    "predicted_severity": "minor",
+    "confidence": 0.9192
+  },
+  "CLAIM_10313": {
+    "predicted_severity": "minor",
+    "confidence": 0.9062
+  },
+  "CLAIM_10000": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9977
+  },
+  "CLAIM_10002": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9981
+  },
+  "CLAIM_10003": {
+    "predicted_severity": "minor",
+    "confidence": 0.9638
+  },
+  "CLAIM_10007": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9766
+  },
+  "CLAIM_10008": {
+    "predicted_severity": "minor",
+    "confidence": 0.7835
+  },
+  "CLAIM_10012": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9817
+  },
+  "CLAIM_10016": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9821
+  },
+  "CLAIM_10020": {
+    "predicted_severity": "moderate",
+    "confidence": 0.7748
+  },
+  "CLAIM_10023": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9454
+  },
+  "CLAIM_10025": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9623
+  },
+  "CLAIM_10028": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9921
+  },
+  "CLAIM_10034": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9885
+  },
+  "CLAIM_10036": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9307
+  },
+  "CLAIM_10039": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9991
+  },
+  "CLAIM_10052": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9959
+  },
+  "CLAIM_10053": {
+    "predicted_severity": "moderate",
+    "confidence": 0.999
+  },
+  "CLAIM_10055": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9953
+  },
+  "CLAIM_10057": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9622
+  },
+  "CLAIM_10058": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9984
+  },
+  "CLAIM_10060": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9759
+  },
+  "CLAIM_10066": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8703
+  },
+  "CLAIM_10069": {
+    "predicted_severity": "minor",
+    "confidence": 0.9667
+  },
+  "CLAIM_10072": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9584
+  },
+  "CLAIM_10077": {
+    "predicted_severity": "moderate",
+    "confidence": 0.934
+  },
+  "CLAIM_10078": {
+    "predicted_severity": "moderate",
+    "confidence": 0.7704
+  },
+  "CLAIM_10081": {
+    "predicted_severity": "severe",
+    "confidence": 0.8185
+  },
+  "CLAIM_10086": {
+    "predicted_severity": "moderate",
+    "confidence": 0.6867
+  },
+  "CLAIM_10088": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8669
+  },
+  "CLAIM_10090": {
+    "predicted_severity": "moderate",
+    "confidence": 0.7179
+  },
+  "CLAIM_10098": {
+    "predicted_severity": "minor",
+    "confidence": 0.7587
+  },
+  "CLAIM_10099": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9996
+  },
+  "CLAIM_10102": {
+    "predicted_severity": "minor",
+    "confidence": 0.9745
+  },
+  "CLAIM_10104": {
+    "predicted_severity": "moderate",
+    "confidence": 0.71
+  },
+  "CLAIM_10105": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9997
+  },
+  "CLAIM_10107": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9984
+  },
+  "CLAIM_10109": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9981
+  },
+  "CLAIM_10115": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9941
+  },
+  "CLAIM_10116": {
+    "predicted_severity": "moderate",
+    "confidence": 0.999
+  },
+  "CLAIM_10120": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8729
+  },
+  "CLAIM_10121": {
+    "predicted_severity": "moderate",
+    "confidence": 0.994
+  },
+  "CLAIM_10126": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9989
+  },
+  "CLAIM_10128": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8827
+  },
+  "CLAIM_10129": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9898
+  },
+  "CLAIM_10130": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9988
+  },
+  "CLAIM_10132": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9993
+  },
+  "CLAIM_10134": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9981
+  },
+  "CLAIM_10136": {
+    "predicted_severity": "minor",
+    "confidence": 0.5003
+  },
+  "CLAIM_10141": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9865
+  },
+  "CLAIM_10142": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9991
+  },
+  "CLAIM_10145": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8293
+  },
+  "CLAIM_10147": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9787
+  },
+  "CLAIM_10154": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9958
+  },
+  "CLAIM_10156": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9982
+  },
+  "CLAIM_10157": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9791
+  },
+  "CLAIM_10158": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9999
+  },
+  "CLAIM_10159": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9844
+  },
+  "CLAIM_10160": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9983
+  },
+  "CLAIM_10168": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9997
+  },
+  "CLAIM_10173": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9946
+  },
+  "CLAIM_10174": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9982
+  },
+  "CLAIM_10179": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9974
+  },
+  "CLAIM_10180": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9437
+  },
+  "CLAIM_10182": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9937
+  },
+  "CLAIM_10190": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9937
+  },
+  "CLAIM_10194": {
+    "predicted_severity": "moderate",
+    "confidence": 0.6501
+  },
+  "CLAIM_10198": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9981
+  },
+  "CLAIM_10199": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9979
+  },
+  "CLAIM_10204": {
+    "predicted_severity": "minor",
+    "confidence": 0.7315
+  },
+  "CLAIM_10206": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9937
+  },
+  "CLAIM_10209": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9763
+  },
+  "CLAIM_10210": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9983
+  },
+  "CLAIM_10218": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9998
+  },
+  "CLAIM_10222": {
+    "predicted_severity": "minor",
+    "confidence": 0.958
+  },
+  "CLAIM_10224": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9913
+  },
+  "CLAIM_10225": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8983
+  },
+  "CLAIM_10227": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9797
+  },
+  "CLAIM_10233": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9979
+  },
+  "CLAIM_10236": {
+    "predicted_severity": "moderate",
+    "confidence": 0.996
+  },
+  "CLAIM_10244": {
+    "predicted_severity": "moderate",
+    "confidence": 0.7189
+  },
+  "CLAIM_10247": {
+    "predicted_severity": "moderate",
+    "confidence": 0.997
+  },
+  "CLAIM_10249": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9953
+  },
+  "CLAIM_10250": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9996
+  },
+  "CLAIM_10251": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9822
+  },
+  "CLAIM_10252": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9867
+  },
+  "CLAIM_10253": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9968
+  },
+  "CLAIM_10254": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9984
+  },
+  "CLAIM_10256": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9988
+  },
+  "CLAIM_10258": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9964
+  },
+  "CLAIM_10263": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9991
+  },
+  "CLAIM_10264": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9993
+  },
+  "CLAIM_10266": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9834
+  },
+  "CLAIM_10268": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9264
+  },
+  "CLAIM_10269": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8426
+  },
+  "CLAIM_10272": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8718
+  },
+  "CLAIM_10274": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9992
+  },
+  "CLAIM_10280": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9975
+  },
+  "CLAIM_10281": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9579
+  },
+  "CLAIM_10283": {
+    "predicted_severity": "moderate",
+    "confidence": 0.5155
+  },
+  "CLAIM_10284": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8515
+  },
+  "CLAIM_10285": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9083
+  },
+  "CLAIM_10290": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9982
+  },
+  "CLAIM_10300": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8768
+  },
+  "CLAIM_10304": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9992
+  },
+  "CLAIM_10305": {
+    "predicted_severity": "moderate",
+    "confidence": 0.976
+  },
+  "CLAIM_10307": {
+    "predicted_severity": "moderate",
+    "confidence": 0.8705
+  },
+  "CLAIM_10308": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9999
+  },
+  "CLAIM_10309": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9985
+  },
+  "CLAIM_10316": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9938
+  },
+  "CLAIM_10317": {
+    "predicted_severity": "moderate",
+    "confidence": 0.9999
+  },
+  "CLAIM_10004": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10005": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10006": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10018": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10031": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10041": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10042": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10047": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10076": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10080": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10083": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10096": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10100": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10111": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10112": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10122": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10124": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10125": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10155": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10161": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10167": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10175": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10176": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10178": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10189": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10191": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10201": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10205": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10213": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10226": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10228": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10234": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10257": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10259": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10261": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10267": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10270": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10278": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10279": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10288": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10289": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10310": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10315": {
+    "predicted_severity": "none",
+    "confidence": 0.8148
+  },
+  "CLAIM_10009": {
+    "predicted_severity": "severe",
+    "confidence": 0.9998
+  },
+  "CLAIM_10010": {
+    "predicted_severity": "severe",
+    "confidence": 0.9997
+  },
+  "CLAIM_10017": {
+    "predicted_severity": "severe",
+    "confidence": 1.0
+  },
+  "CLAIM_10019": {
+    "predicted_severity": "severe",
+    "confidence": 0.9982
+  },
+  "CLAIM_10022": {
+    "predicted_severity": "severe",
+    "confidence": 0.9989
+  },
+  "CLAIM_10026": {
+    "predicted_severity": "severe",
+    "confidence": 0.6955
+  },
+  "CLAIM_10027": {
+    "predicted_severity": "severe",
+    "confidence": 0.8743
+  },
+  "CLAIM_10029": {
+    "predicted_severity": "severe",
+    "confidence": 0.999
+  },
+  "CLAIM_10035": {
+    "predicted_severity": "severe",
+    "confidence": 0.9985
+  },
+  "CLAIM_10043": {
+    "predicted_severity": "severe",
+    "confidence": 0.9976
+  },
+  "CLAIM_10049": {
+    "predicted_severity": "severe",
+    "confidence": 0.9999
+  },
+  "CLAIM_10054": {
+    "predicted_severity": "severe",
+    "confidence": 0.9885
+  },
+  "CLAIM_10061": {
+    "predicted_severity": "severe",
+    "confidence": 0.9998
+  },
+  "CLAIM_10063": {
+    "predicted_severity": "severe",
+    "confidence": 0.9272
+  },
+  "CLAIM_10065": {
+    "predicted_severity": "severe",
+    "confidence": 0.9997
+  },
+  "CLAIM_10067": {
+    "predicted_severity": "severe",
+    "confidence": 0.9669
+  },
+  "CLAIM_10070": {
+    "predicted_severity": "severe",
+    "confidence": 0.9995
+  },
+  "CLAIM_10073": {
+    "predicted_severity": "severe",
+    "confidence": 0.9993
+  },
+  "CLAIM_10074": {
+    "predicted_severity": "severe",
+    "confidence": 0.995
+  },
+  "CLAIM_10075": {
+    "predicted_severity": "severe",
+    "confidence": 0.9491
+  },
+  "CLAIM_10082": {
+    "predicted_severity": "severe",
+    "confidence": 0.9998
+  },
+  "CLAIM_10087": {
+    "predicted_severity": "severe",
+    "confidence": 0.9407
+  },
+  "CLAIM_10089": {
+    "predicted_severity": "severe",
+    "confidence": 0.9916
+  },
+  "CLAIM_10093": {
+    "predicted_severity": "severe",
+    "confidence": 0.9992
+  },
+  "CLAIM_10094": {
+    "predicted_severity": "severe",
+    "confidence": 0.9976
+  },
+  "CLAIM_10097": {
+    "predicted_severity": "severe",
+    "confidence": 0.9533
+  },
+  "CLAIM_10103": {
+    "predicted_severity": "severe",
+    "confidence": 0.9999
+  },
+  "CLAIM_10110": {
+    "predicted_severity": "severe",
+    "confidence": 0.9979
+  },
+  "CLAIM_10118": {
+    "predicted_severity": "severe",
+    "confidence": 0.9138
+  },
+  "CLAIM_10133": {
+    "predicted_severity": "severe",
+    "confidence": 0.9972
+  },
+  "CLAIM_10139": {
+    "predicted_severity": "severe",
+    "confidence": 0.9995
+  },
+  "CLAIM_10146": {
+    "predicted_severity": "severe",
+    "confidence": 0.9931
+  },
+  "CLAIM_10149": {
+    "predicted_severity": "severe",
+    "confidence": 0.9933
+  },
+  "CLAIM_10150": {
+    "predicted_severity": "severe",
+    "confidence": 0.978
+  },
+  "CLAIM_10151": {
+    "predicted_severity": "severe",
+    "confidence": 0.9993
+  },
+  "CLAIM_10166": {
+    "predicted_severity": "severe",
+    "confidence": 0.9868
+  },
+  "CLAIM_10192": {
+    "predicted_severity": "severe",
+    "confidence": 0.9996
+  },
+  "CLAIM_10197": {
+    "predicted_severity": "severe",
+    "confidence": 0.9999
+  },
+  "CLAIM_10202": {
+    "predicted_severity": "severe",
+    "confidence": 0.9264
+  },
+  "CLAIM_10203": {
+    "predicted_severity": "severe",
+    "confidence": 0.8895
+  },
+  "CLAIM_10208": {
+    "predicted_severity": "severe",
+    "confidence": 0.9782
+  },
+  "CLAIM_10212": {
+    "predicted_severity": "severe",
+    "confidence": 0.9971
+  },
+  "CLAIM_10216": {
+    "predicted_severity": "severe",
+    "confidence": 1.0
+  },
+  "CLAIM_10217": {
+    "predicted_severity": "moderate",
+    "confidence": 0.7154
+  },
+  "CLAIM_10220": {
+    "predicted_severity": "moderate",
+    "confidence": 0.6125
+  },
+  "CLAIM_10230": {
+    "predicted_severity": "severe",
+    "confidence": 0.9776
+  },
+  "CLAIM_10231": {
+    "predicted_severity": "severe",
+    "confidence": 0.9999
+  },
+  "CLAIM_10232": {
+    "predicted_severity": "severe",
+    "confidence": 0.9974
+  },
+  "CLAIM_10273": {
+    "predicted_severity": "severe",
+    "confidence": 0.9983
+  },
+  "CLAIM_10282": {
+    "predicted_severity": "severe",
+    "confidence": 0.9998
+  },
+  "CLAIM_10286": {
+    "predicted_severity": "severe",
+    "confidence": 0.9979
+  },
+  "CLAIM_10291": {
+    "predicted_severity": "severe",
+    "confidence": 0.6947
+  },
+  "CLAIM_10297": {
+    "predicted_severity": "severe",
+    "confidence": 0.9999
+  },
+  "CLAIM_10302": {
+    "predicted_severity": "severe",
+    "confidence": 0.9971
+  },
+  "CLAIM_10311": {
+    "predicted_severity": "severe",
+    "confidence": 0.9997
+  },
+  "CLAIM_10314": {
+    "predicted_severity": "severe",
+    "confidence": 0.9955
+  },
+  "CLAIM_10318": {
+    "predicted_severity": "severe",
+    "confidence": 1.0
+  },
+  "CLAIM_10319": {
+    "predicted_severity": "severe",
+    "confidence": 0.9972
+  }
+}
