@@ -1,6 +1,6 @@
 # AutoClaim Intelligence Platform
 
-**A combined Data Engineer / AI Engineer / ML Engineer portfolio project:** Document Intelligence
+**A project I built to learn multimodal AI and error propagation:** Document Intelligence
 (OCR + LLM field extraction), Computer Vision (a CNN trained from scratch), and a governed dbt
 semantic layer (contract-enforced, with real MetricFlow metric definitions) — unified around
 insurance claims processing, reconciled by a cross-modal agent that checks whether two
@@ -26,7 +26,7 @@ the schema is contract-enforced and every metric has exactly one definition.
 
 ---
 
-## 2. What Makes This "Industry-Level," Not a Tutorial Clone
+## 2. What I Was Trying to Get Right
 
 - **Two independently-built AI pipelines that check each other.** The document extractor never sees
   the photo; the CV classifier never sees the claim form. `agents/claim_reconciliation_agent.py`'s
@@ -283,7 +283,7 @@ job is done by the actual semantic layer product instead of a script that mirror
 
 ---
 
-## 10. Skills Demonstrated
+## 10. What I Learned Building This
 
 **Document Intelligence / NLP:** OCR Text Extraction (pdfplumber) · Regex-Based Structured Extraction ·
 LLM-Based JSON Extraction with Guardrails · Prompt Engineering (documented before/after iteration) ·
